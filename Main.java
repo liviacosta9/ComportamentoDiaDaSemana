@@ -1,8 +1,6 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 
-import servico.SeletorEstrategia;
-
 public class Main {
 
     public static void main(String[] args){
