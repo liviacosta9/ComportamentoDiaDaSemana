@@ -1,7 +1,6 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 
-import estrategia.EstrategiaDia;
 import servico.SeletorEstrategia;
 
 public class Main {
@@ -39,5 +38,5 @@ public class Main {
 
         scanner.close();
     }
-    
+
 }
